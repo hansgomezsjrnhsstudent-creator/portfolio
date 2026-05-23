@@ -42,8 +42,7 @@ ___
 - To be an Engineer 
 
 ## 📫 Contact 
-- Github: 
-- hansgomezsjrnhsstudent@gmail.com 
+- Github: hansgomezsjrnhsstudent@gmail.com 
 
 ___
  
