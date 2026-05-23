@@ -1,4 +1,4 @@
-
+a mo
 # HANS CHRISTIAN O. GOMEZ
 ##🎯 Hobbies 
  -Playing Mobile Games
