@@ -34,7 +34,7 @@ ESP32 Expansion board
 ___
 
 ##🥇 Achievement 
- -NC2 
+ -NC-II
  
 ___
 
